@@ -1,5 +1,4 @@
 # first_app
 Demo app
 
-
-![Uploading Screencastfrom2025-08-2512-46-15-ezgif.com-video-to-gif-converter.gif…]()
+![Demo]([https://github.com/Hieprocode/first_app/assets/123456789/abc-def.gif](https://github.com/user-attachments/assets/754cd286-6873-408e-ab48-9a1d33a356c0))
